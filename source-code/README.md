@@ -1,16 +1,5 @@
-# Full Stack: Angular and Spring Boot
+# Full Stack: Angular and Spring Boot - Plano de versões
 
 
-[<img src="images/angular-spring-boot-grabber-thumbnail.png" alt="Full Stack: Angular and Spring Boot"  width="400" />](https://bit.ly/2C3XMcs)
+[<img src="https://github.com/ANGULAR-PROJETOS/fullstack-angular-and-springboot/blob/master/source-code/release_plan.PNG" />]
 
-## Angular Installation Guides
-
-* [Linux](install-angular-tools/linux/install-linux.md)
-
-* [Mac](install-angular-tools/mac/install-mac.md)
-
-* [Microsoft Windows](install-angular-tools/ms-windows/install-ms-windows.md)
-
-## Source Code
-
-* [Source code](source-code)
